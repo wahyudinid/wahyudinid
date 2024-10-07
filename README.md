@@ -1,4 +1,4 @@
-# 💫 Hello i'am Wahyudin
+# 💫 Hello i'm Wahyudin
 🌱 I’m currently learning Web dev<br>⚡ I'm little bit funny
 
 
